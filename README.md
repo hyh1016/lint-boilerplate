@@ -2,10 +2,14 @@
 
 ## __INSTALL__
 
-`install` devDependencies.
+`install` packages
 
 ```
-npm install --only=dev
+npm install
+```
+or
+```
+yarn
 ```
 
 ---
